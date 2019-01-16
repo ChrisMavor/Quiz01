@@ -51,3 +51,4 @@ testVector03 = True
 #print(matVec(testMatrix01,testVector01))
 print(matVec(testMatrix02,testVector02))
 #print(matVec(testMatrix03,testVector03))
+a=1

@@ -8,7 +8,7 @@ June 11th, 2018
 '''
 def matVec(matrix, vector):
   '''
-This function takes a matrix and a vector as its arguments. It then updates each element of the matrix by multiplying it by the vector corresponding value before returning the now updated vector. 
+This "quiz" acts as a function that takes a matrix and a vector as its arguments (Matrix Vector Multiplication algorithm). It then updates each element of the matrix by multiplying it by the vector corresponding value before returning the now updated vector. 
 
 Input values must be in matrix = m*n and vector in 1*n.
   '''
